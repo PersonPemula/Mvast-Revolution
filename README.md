@@ -8,4 +8,9 @@ Mvast Revolution is a Magisk/KernelSU/APatch module designed to optimize the per
 - Install the module via **Magisk/KernelSU/APatch** Manager
 - Reboot your device for the changes to take effect.
 # Changelog 🤔
-- Read full **Changelog** Here
+- Read full **Changelog** [Here](https://github.com/PersonPemula/Mvast-Revolution/commit/f3f9a52105bbdaf9976c9f48dae1643036b51f96)
+# Credits
+- @Zyarexx          : For the original module
+- @PersonOenggoreng : For enhancing and optimizing the module, including adding custom tweaks and improving compatibility.
+# From Person
+- Thanks all for supporting me
