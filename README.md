@@ -1,4 +1,5 @@
-![alt text](https://github.com/PersonPemula/Mvast-Revolution/blob/main/img/banner.png?raw=true?raw=true)
+![alt text](https://github.com/PersonPemula/Mvast-Revolution/blob/main/img/furina.png?raw=true?raw=true) 
+
 # Mvast Revolution 🥶
 Mvast Revolution is a Magisk/KernelSU/APatch module designed to optimize the performance and thermal management of Android devices. This module created by @PersonPenggoreng and supported by @Zyarexx 
 # Requirements ❓
